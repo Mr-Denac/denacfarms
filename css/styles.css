@@ -1,0 +1,120 @@
+.logo-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+h1 {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    text-align: center;
+    color: white;
+    font-family: 'sacramento',cursive;
+    font-size: 5.62rem;
+    margin: 0 auto 0 auto;
+}
+p {
+    color: #11999E;
+    text-align: center;
+}
+h3 {
+    margin-top: 0%;
+    text-align: center;
+    
+}
+body {
+    background-color: lightgreen;
+    color: #EAF6F6;
+}
+.animal-container {
+    background-color: red;
+    margin: 30px 10px 20px 10px;
+    
+}
+.crop-container {
+    background-color: green;
+}
+header {
+    display: inline;
+    height: 90px;
+    width: 100%;
+}
+.navbar {
+    position: absolute;
+    left: 20%;
+    top:0;
+}
+img {
+    height: 100%;
+    width : 100%;
+}
+.top-ancor {
+    position: absolute;
+    left:20%;
+    top: 50px;
+    
+} 
+.bottom-container {
+    background-color: #66BFBF;
+    padding:60px 0 20px;
+    text-align: center;
+}
+a{
+    color: #11999E;
+    font-family: 'merriweather', serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover {
+    color:#EAF6F6;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 4%;
+}
+.bueze-image {
+    border-radius: 50%;
+    background-color: green;
+    height: 400px;
+    width: 400px;
+}
+.chris-image {
+    border-radius: 50%;
+    background-color:red;
+    height: 400px;
+    width: 400px;  
+}
+.tony-image {
+    border-radius: 50%;
+    background-color:white;
+    height: 400px;
+    width: 400px;
+    margin-top: auto;
+}
+h2 {
+    color: #66BFBF;
+    font-family:'montserrat',;
+    font-size: 2.5rem; 
+    font-weight: normal;
+    padding:0;
+}
+.tony {
+    position: absolute;
+    left: 475px;
+    top: 200px;
+}
+.chris {
+    position: absolute;
+    right: 30px;
+    top: 200px;
+}
+.bueze {
+    position: absolute;
+    left: 30px;
+    top: 200px;
+}
+.about-p {
+    width: 50%;
+} 
